@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Project5 MinhalSyed - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Windows\TEMP\RSPD3E.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Project5 MinhalSyed.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"U:\ICS4U1\Project5 MinhalSyed\Project5 MinhalSyed.cpp"
+]
+Creating command line "cl.exe @C:\Windows\TEMP\RSPD3E.tmp" 
+Creating temporary file "C:\Windows\TEMP\RSPD3F.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Project5 MinhalSyed.pdb" /debug /machine:I386 /out:"Debug/Project5 MinhalSyed.exe" /pdbtype:sept 
+".\Debug\Project5 MinhalSyed.obj"
+]
+Creating command line "link.exe @C:\Windows\TEMP\RSPD3F.tmp"
+<h3>Output Window</h3>
+Compiling...
+Project5 MinhalSyed.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Project5 MinhalSyed.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
